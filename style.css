@@ -7,10 +7,15 @@
   padding: 0;
 }
 
+nav{
+  background: linear-gradient(90deg, rgb(196, 196, 176), rgb(156, 156, 136), rgb(216, 216, 196));
+
+}
+
 body {
   font-family: "Poppins", sans-serif;
-  background-color: rgb(196, 196, 176);
-  
+  background: linear-gradient(100deg, rgb(196, 196, 176), rgb(156, 156, 136), rgb(216, 216, 196));
+
 }
 
 html {
@@ -506,4 +511,10 @@ footer p {
   font-size: 0.9rem;
   color: #666;
 }
+
+footer{
+  background: linear-gradient(90deg, rgb(196, 196, 176), rgb(156, 156, 136), rgb(216, 216, 196));
+
+}
+
 
